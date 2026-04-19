@@ -17,6 +17,6 @@ This project focuses on analyzing sales data to uncover insights that can enhanc
 
 The project utilizes two primary datases:
 
-1 store.csv: Contains information about different stores, includig:
+1 store.csv: Contains information about different stores, includig:
 
 
