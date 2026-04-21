@@ -40,9 +40,9 @@ Here are some visualizations from the project:
 * Jupyter Notebook
 
 ## 📌 Future Improvements
-* Advanced Time Series Moels: Implement models like ARIMA or Prophet for more accurate sales foreasting.
-* Incorporate Additional ata: Integrate external data sources such as economic indicators or competitor pricing to enhance model perfrmance.
-* Interactive Dashbords: Develop dashboards using tools like Tableau or Power BI for real-time sales monitoring and decision upport.
+* Advanced Time Series Moels: Implement models like ARIMA or Prophet for more accurate sales foreasting.
+* Incorporate Additional ata: Integrate external data sources such as economic indicators or competitor pricing to enhance model perfrmance.
+* Interactive Dashbords: Develop dashboards using tools like Tableau or Power BI for real-time sales monitoring and decision upport.
 
 
 
