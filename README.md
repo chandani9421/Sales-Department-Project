@@ -1,4 +1,4 @@
-# Sales-Department-Project.............
+# Sales-Department-Project
 
 ## 📌 Overview
 
