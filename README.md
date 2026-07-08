@@ -4,7 +4,7 @@
 
 This project focuses on analyzing sales data to uncover insights that can enhance sales strategies and performance
 
-## 📂 Project Structure
+## 📂 Project Structure...............
 
 ```text
 ├── Sales_Department_Png/             # Visualizations generated during analysis
